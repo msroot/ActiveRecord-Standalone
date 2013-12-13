@@ -1,4 +1,4 @@
-## ActiveRecord Standalone example
+## ActiveRecord Standalone 
 
 ### Create a Migration:
 rake db:new_migration name=Posts
